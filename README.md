@@ -1,5 +1,7 @@
-# Teamgenerater
-  ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)
+## Team Generater
+   ## Description
+  This application is a employees on a software engineering team and generates an HTML webpage that displays summaries for each person infromation 
+
   ##### Table of Contents  
   [Headers](#headers)  
   [Emphasis](#emphasis) 
@@ -10,9 +12,7 @@
   [Contributers](#contributers)
   [Testing](#testing)
   
-      [License](#license)  
-  ## Description
-  This application is a employees on a software engineering team and generates an HTML webpage that displays summaries for each person infromation 
+     
   ## Requirements
   undefined
   ## Usage
